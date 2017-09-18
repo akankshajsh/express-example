@@ -1,0 +1,25 @@
+{
+  "name": "express-example",
+  "version": "1.0.0",
+  "description": "An express example routing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akankshajsh/express-example.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Akanksha Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akankshajsh/express-example/issues"
+  },
+  "homepage": "https://github.com/akankshajsh/express-example#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
